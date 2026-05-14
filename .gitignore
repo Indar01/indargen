@@ -1,2 +1,25 @@
-# Google App Engine generated folder
-appengine-generated/
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Generated wordlists
+indargen_wordlist_*.txt
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
