@@ -1,0 +1,3 @@
+# IndarGen - No external dependencies required!
+# Pure Python3 standard library only.
+# Just run: python3 indargen.py
